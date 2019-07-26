@@ -1,5 +1,5 @@
 # hello-world
-Github exercise on repository 
+
 
 Hello world!
 
